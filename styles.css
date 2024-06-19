@@ -1,0 +1,39 @@
+body{
+    background: black;
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto", sans-serif;
+}
+.container{
+    background: white;
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.post-header{
+    padding: 9px 10px 4px 4px;
+
+}
+.post-header >div{
+    display: inline-block;
+    width: auto;
+    height: auto;
+}
+.fa-brands{
+    font-size: 30px;
+    margin: 5px;
+}
+.titulo >h1{
+   font-size: 15px;
+   margin: 0;
+}
+.puntitos{
+    font-size: 30px;
+    float: right;
+}
+img{
+    width: 100%;
+}
+.fa-bookmark{
+    float: right;
+}
